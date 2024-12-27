@@ -1,0 +1,10 @@
+{
+	"recommendations": [
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"selemondev.vscode-shadcn-svelte",
+		"svelte.svelte-vscode",
+		"bradlc.vscode-tailwindcss",
+		"tauri-apps.tauri-vscode"
+	]
+}
